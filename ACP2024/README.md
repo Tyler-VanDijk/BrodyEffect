@@ -4,4 +4,4 @@
 [1] Blah B., Blah B. "Lorem Ipsum" randomhyperlink.com <br/>
 [2] Bleh B., Bleh B. "Dolor Sit Amet" randomhyperlink.net
 ## Supplemental Figures
-![download](https://github.com/user-attachments/assets/25109fd9-1597-4ae7-8288-86e6bcec1aa0)
+![download](https://github.com/user-attachments/assets/c1278d24-b89e-4f1f-9a1b-37c975be93d2)
