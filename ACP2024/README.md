@@ -20,8 +20,13 @@
 17. J. Z. Bakdash and L. R. Marusich, “Repeated measures correlation,” Frontiers in Psychology, vol. 8, no. MAR, p. 456, Apr. 2017, doi: 10.3389/FPSYG.2017.00456/BIBTEX.
 
 ## Supplemental Figures
-<img src="https://github.com/user-attachments/assets/c1278d24-b89e-4f1f-9a1b-37c975be93d2" alt="HCTcorrelations" style="width:75%;"/></br>
-Fig S1. All correlations mapping QRS features to Hematocrit as a fluid status target, [Left] correlations of QRS features from a single EKG study to patient's hematocrit on the day of testing, [Right] correlations of changes in QRS features between EKGs to the corresponding change in hematocrit between tests
+<img src="https://github.com/user-attachments/assets/18e06e63-7f20-4690-8855-c0d5c228e437" alt="HCTcorrelations" style="width:75%;"/></br>
+Fig S1. All correlations mapping QRS features to Hematocrit as a fluid status target, [Left] correlations of QRS features from a single EKG study to patient's hematocrit on the day of testing, [Right] correlations of changes in QRS features between EKGs to the corresponding change in hematocrit between tests. Statistical significance denoted *
 
-<img src="https://github.com/user-attachments/assets/f2361aef-3b17-4ea3-a6e3-219e677eb787" alt="NWLcorrelations" style="width:75%;"/></br>
-</br>Fig S2. All correlations mapping QRS features to net weight loss as a fluid status target, [Left] correlations of QRS features from a single EKG study to patient's weight loss from the day of admission, [Right] correlations of changes in QRS features between EKGs to the corresponding change in weight between test
+<img src="https://github.com/user-attachments/assets/1a81e9b7-f487-4860-b156-3545503970b5" alt="NWLcorrelations" style="width:75%;"/></br>
+Fig S2. All correlations mapping QRS features to net weight loss as a fluid status target, [Left] correlations of QRS features from a single EKG study to patient's weight loss from the day of admission, [Right] correlations of changes in QRS features between EKGs to the corresponding change in weight between test. Statistical significance denoted *
+
+<img src="https://github.com/user-attachments/assets/ea91f7b0-3b79-4ef4-80b3-93fae095c57c" alt="PVScorrelations" style="width:75%;"/></br>
+Fig S3. All correlations mapping QRS features to calculated plasma volume status ([PVS](https://journals.lww.com/ccejournal/fulltext/2021/09000/calculated_plasma_volume_status_is_associated_with.1.aspx#:~:text=Calculation%20of%20Plasma%20Volume%20Status), [11]) as a fluid status target, [Left] correlations of QRS features from a single EKG study to patient's weight loss from the day of admission, [Right] correlations of changes in QRS features between EKGs to the corresponding change in weight between test. Statistical significance denoted *
+
+
